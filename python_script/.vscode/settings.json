@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/karun/catkin_ws/devel_isolated/realsense2_camera/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/iq_gnc/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/mavros/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/mavros_msgs/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/hector_nav_msgs/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/hector_mapping/lib/python3/dist-packages",
+        "/home/karun/iq_ws/devel/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/karun/catkin_ws/devel_isolated/realsense2_camera/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/iq_gnc/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/mavros/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/mavros_msgs/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/hector_nav_msgs/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel_isolated/hector_mapping/lib/python3/dist-packages",
+        "/home/karun/iq_ws/devel/lib/python3/dist-packages",
+        "/home/karun/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
